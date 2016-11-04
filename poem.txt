@@ -1,0 +1,8 @@
+the dog is new
+the dog is old
+red
+blue
+green
+orange
+yellow
+dog is old
